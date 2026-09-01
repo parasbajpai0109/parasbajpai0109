@@ -1,5 +1,5 @@
 # 💫 About Me:
-Every project I build is another step toward understanding how technology can solve real problems. <br>I'm learning by building, breaking things, fixing them, and constantly asking "what if?"<br><br>🌱 I'm currently learning **Web development **<br>🤝 I'm looking to collaborate on **Open Source & Projects** <br>⚡ Fun fact: 2 AM is apparently my peak brainstorming time :) <br><br><br>
+Every project I build is another step toward understanding how technology can solve real problems. <br>I'm learning by building, breaking things, fixing them, and constantly asking "what if?"<br><br>🌱 I'm currently learning **Web development**<br>🤝 I'm looking to collaborate on **Open Source & Projects** <br>⚡ Fun fact: **2 AM is apparently my peak brainstorming time :)** <br><br><br>
 
 
 ## 🌐 Socials:
