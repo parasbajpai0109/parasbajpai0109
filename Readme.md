@@ -15,11 +15,15 @@ Every project I build is another step toward understanding how technology can so
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🌱 My contribution ecosystem
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/parasbajpai0109/parasbajpai0109/output/github-contribution-grid-snake-dark.svg"
+       alt="GitHub Contribution Snake"
+       width="100%">
+</p>
+
 ---
-[![](https://komarev.com/ghpvc/?username=parasbajpai0109&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<br>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/parasbajpai0109">parasbajpai0109</a></i></p>
