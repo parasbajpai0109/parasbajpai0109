@@ -15,12 +15,24 @@ Every project I build is another step toward understanding how technology can so
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌱 My contribution ecosystem
+
+<h2>🌱 My contribution ecosystem</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parasbajpai0109/parasbajpai0109/output/github-contribution-grid-snake-dark.svg"
-       alt="GitHub Contribution Snake"
-       width="100%">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/parasbajpai0109/parasbajpai0109/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/parasbajpai0109/parasbajpai0109/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/parasbajpai0109/parasbajpai0109/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
